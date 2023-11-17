@@ -42,6 +42,7 @@ Wir haben uns vorgenommen, als Projekt eines der vorgeschlagenen Projekte für M
 | 4.1  | Antwort auf eine Frage gegeben      | Überprüfen der Antwort                   | Deutliches Feedback, ob die Antwort richtig oder falsch war |
 | 5.1  | Auswahl der Schwierigkeitsstufe     | Auswahl einer Schwierigkeitsstufe        | Anzeige von Fragen entsprechend der gewählten Stufe |
 | 6.1  | Zugriff auf das Quiz                | Navigieren durch das Quiz                | Einfache und intuitive Navigation durch das Quiz   |
+| 7.1  | Spieler im Quiz mit Fragen     | Klick auf 'Hilfe'-Button | Anzeige eines Hilfe-Dialogs mit Anweisungen zum Quiz |
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
