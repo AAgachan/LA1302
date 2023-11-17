@@ -34,8 +34,14 @@ Wir haben uns vorgenommen, als Projekt eines der vorgeschlagenen Projekte für M
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
+| 1.1  | Quiz-Seite geladen                  | Auswahl einer Multiple-Choice-Frage      | Anzeige der Frage und der Antwortmöglichkeiten     |
+| 1.2  | Frage angezeigt                     | Auswahl einer Antwort, Bestätigen        | Feedback zur Antwort (richtig/falsch)              |
+| 2.1  | Quiz-Seite mit Texteingabefeldern   | Eingabe einer Antwort in Textform        | Anzeige der eingegebenen Antwort im Textfeld       |
+| 2.2  | Textfrage gestellt                  | Eingabe einer korrekten Antwort, Bestätigen | Feedback, dass die Antwort korrekt ist            |
+| 3.1  | Admin-Bereich für Fragebearbeitung  | Bearbeiten einer bestehenden Frage       | Aktualisierte Frage wird im Quiz angezeigt         |
+| 4.1  | Antwort auf eine Frage gegeben      | Überprüfen der Antwort                   | Deutliches Feedback, ob die Antwort richtig oder falsch war |
+| 5.1  | Auswahl der Schwierigkeitsstufe     | Auswahl einer Schwierigkeitsstufe        | Anzeige von Fragen entsprechend der gewählten Stufe |
+| 6.1  | Zugriff auf das Quiz                | Navigieren durch das Quiz                | Einfache und intuitive Navigation durch das Quiz   |
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
