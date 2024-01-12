@@ -53,7 +53,8 @@ Wir haben uns vorgenommen, als Projekt eines der vorgeschlagenen Projekte für M
 
 ### 1.4 Diagramme
 
-![image](https://github.com/AAgachan/LA1302/assets/110893260/e72dbfeb-26e3-42bf-90d4-b49a1f1aadac)
+![image](https://github.com/AAgachan/LA1302/assets/110893260/d5164c85-006d-4f4d-bda7-0d96726eebaf)
+
 
 
 ## 2 Planen
