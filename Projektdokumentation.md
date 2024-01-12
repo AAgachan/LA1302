@@ -105,12 +105,11 @@ Wir haben uns vorgenommen, als Projekt eines der vorgeschlagenen Projekte für M
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
 | 1.1  | 12.01.24      |  OK        | Agachan       |
-| 1.2  | 12.01.24      |  OK        | Agachan       |
-| 2.1  | 12.01.24      |  OK        | Alberto       |
+| 2.1  | 12.01.24      |  OK        | Agachan       |
 | 3.1  | 12.01.24      |  OK        | Alberto       |
-| 4.1  | 12.01.24      |  OK        | Manuel        |
+| 4.1  | 12.01.24      |  OK        | Alberto        |
 | 5.1  | 12.01.24      |  OK        | Manuel        |
-| 6.1  | 12.01.24      |  OK        | Samuel        |
+| 6.1  | 12.01.24      |  OK        | Manuel        |
 | 7.1  | 12.01.24      |  OK        | Samuel        |
 
 Es gab keine Probleme und alles wurde richtig implementiert.
