@@ -1,14 +1,19 @@
 # Projekt-Dokumentation
 
-☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
+
 
 Agachan Atputharasa, Alberto Manser, Manuel Greub, Samuel Lucena
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-| 11.11.2023      | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
-|       | ...     |                                                              |
-|       | 1.0.0   |                                                              |
+| 10.11.23 | 0.0.1 | Wir haben das Projekt begonnen (User Stories, Testfälle etc.). |
+| 17.11.23 | 0.0.2 | Entwicklung der Grundfunktionen. |
+| 24.11.23 | 0.0.3 | Verbesserung der Funktionen. |
+| 01.12.23 | 0.0.4 | Benutzererfahrungsoptimierung. |
+| 08.12.23 | 0.0.5 | Abschluss der Hauptfunktionen. |
+| 15.12.23 | 0.0.6 | Letzte Feinschfliff, |
+| 22.12.23 | 0.1.0 | Fertigstellung des Programms. |
+| 12.01.24 | 1.0.0 | Fertigstellung des Dokumentation und Portfolios.| 
 
 ## 1 Informieren
 
@@ -89,16 +94,16 @@ Wir haben uns vorgenommen, als Projekt eines der vorgeschlagenen Projekte für M
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  | 12.01.24      |  Positiv        | Agachan       |
-| 1.2  | 12.01.24      |  Positiv        | Agachan       |
-| 2.1  | 12.01.24      |  Positiv        | Alberto       |
-| 3.1  | 12.01.24      |  Positiv        | Alberto       |
-| 4.1  | 12.01.24      |  Positiv        | Manuel        |
-| 5.1  | 12.01.24      |  Positiv        | Manuel        |
-| 6.1  | 12.01.24      |  Positiv        | Samuel        |
-| 7.1  | 12.01.24      |  Positiv        | Samuel        |
+| 1.1  | 12.01.24      |  OK        | Agachan       |
+| 1.2  | 12.01.24      |  OK        | Agachan       |
+| 2.1  | 12.01.24      |  OK        | Alberto       |
+| 3.1  | 12.01.24      |  OK        | Alberto       |
+| 4.1  | 12.01.24      |  OK        | Manuel        |
+| 5.1  | 12.01.24      |  OK        | Manuel        |
+| 6.1  | 12.01.24      |  OK        | Samuel        |
+| 7.1  | 12.01.24      |  OK        | Samuel        |
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
+Es gab keine Probleme und alles wurde richtig implementiert.
 
 
 ## 6 Auswerten
