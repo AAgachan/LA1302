@@ -62,8 +62,7 @@ Wir haben uns vorgenommen, als Projekt eines der vorgeschlagenen Projekte für M
 | 5.A | 22.12.23 | Alberto | Integration von Schwierigkeitsstufen in das Quiz-System | 60 Min |
 | 6.A | 22.12.23 | Manuel | Entwicklung eines benutzerfreundlichen Interface-Designs | 60 Min |
 | 7.A | 22.12.23 | Samuel | Erstellung einer interaktiven Hilfe-Funktion | 60 Min |
-
-Total: 8 Stunden 
+|Total: 8 Stunden| 
 
 ## 3 Entscheiden
 
@@ -101,14 +100,6 @@ Total: 8 Stunden
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
-### 5.2 Exploratives Testen
-
-| BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
-| ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
-| ...  |              |         |                   |                      |
-
-✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
 
 ## 6 Auswerten
 
