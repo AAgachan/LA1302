@@ -54,14 +54,16 @@ Wir haben uns vorgenommen, als Projekt eines der vorgeschlagenen Projekte für M
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+| 1.A | 22.12.23 | Agachan | Entwurf der Multiple-Choice-Fragen und Antwortoptionen | 60 Min |
+| 1.B | 22.12.23 | Alberto | Implementierung der Frage-Anzeige im Frontend | 60 Min |
+| 2.A | 22.12.23 | Manuel | Entwicklung der Texteingabe-Funktion für offene Fragen | 60 Min |
+| 3.A | 22.12.23 | Samuel | Entwurf eines Editors zur Fragebearbeitung | 60 Min |
+| 4.A | 22.12.23 | Agachan | Design und Implementierung des Feedback-Systems | 60 Min |
+| 5.A | 22.12.23 | Alberto | Integration von Schwierigkeitsstufen in das Quiz-System | 60 Min |
+| 6.A | 22.12.23 | Manuel | Entwicklung eines benutzerfreundlichen Interface-Designs | 60 Min |
+| 7.A | 22.12.23 | Samuel | Erstellung einer interaktiven Hilfe-Funktion | 60 Min |
 
-Total: 
-
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
-
-✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
+Total: 8 Stunden 
 
 ## 3 Entscheiden
 
@@ -71,10 +73,16 @@ Total:
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| 1.A | 22.12.23 | Agachan | Entwurf der Multiple-Choice-Fragen und Antwortoptionen | 60 Min | 30 Min |
+| 1.B | 22.12.23 | Alberto | Implementierung der Frage-Anzeige im Frontend | 60 Min | 30 Min |
+| 2.A | 22.12.23 | Manuel | Entwicklung der Texteingabe-Funktion für offene Fragen | 60 Min | 60 Min |
+| 3.A | 22.12.23 | Samuel | Entwurf eines Editors zur Fragebearbeitung | 60 Min | 45 Min |
+| 4.A | 22.12.23 | Agachan | Design und Implementierung des Feedback-Systems | 60 Min | 60 Min |
+| 5.A | 22.12.23 | Alberto | Integration von Schwierigkeitsstufen in das Quiz-System | 60 Min | 60 Min |
+| 6.A | 22.12.23 | Manuel | Entwicklung eines benutzerfreundlichen Interface-Designs | 60 Min | 30 Min  |
+| 7.A | 22.12.23 | Samuel | Erstellung einer interaktiven Hilfe-Funktion | 60 Min | 45 Min |
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
+
 
 ## 5 Kontrollieren
 
@@ -82,8 +90,14 @@ Total:
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  | 12.01.24      |  Positiv        | Agachan       |
+| 1.2  | 12.01.24      |  Positiv        | Agachan       |
+| 2.1  | 12.01.24      |  Positiv        | Alberto       |
+| 3.1  | 12.01.24      |  Positiv        | Alberto       |
+| 4.1  | 12.01.24      |  Positiv        | Manuel        |
+| 5.1  | 12.01.24      |  Positiv        | Manuel        |
+| 6.1  | 12.01.24      |  Positiv        | Samuel        |
+| 7.1  | 12.01.24      |  Positiv        | Samuel        |
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
