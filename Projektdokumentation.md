@@ -11,7 +11,7 @@ Agachan Atputharasa, Alberto Manser, Manuel Greub, Samuel Lucena
 | 24.11.23 | 0.0.3 | Verbesserung der Funktionen. |
 | 01.12.23 | 0.0.4 | Benutzererfahrungsoptimierung. |
 | 08.12.23 | 0.0.5 | Abschluss der Hauptfunktionen. |
-| 15.12.23 | 0.0.6 | Letzte Feinschfliff, |
+| 15.12.23 | 0.0.6 | Letzte Feinschfliff. |
 | 22.12.23 | 0.1.0 | Fertigstellung des Programms. |
 | 12.01.24 | 1.0.0 | Fertigstellung des Dokumentation und Portfolios.| 
 
